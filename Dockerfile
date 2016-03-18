@@ -1,5 +1,5 @@
 #Sélection de l'image de référence spark-base
-FROM spark-base
+FROM henrirenee/spark-base:1.0
 
 EXPOSE 7078 8081
 
